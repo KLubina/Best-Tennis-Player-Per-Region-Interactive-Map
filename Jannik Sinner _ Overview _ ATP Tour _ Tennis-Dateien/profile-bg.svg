@@ -1,0 +1,41 @@
+<svg width="255" height="58" viewBox="0 0 255 58" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_2385_93388" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="256" height="58">
+<path d="M1 57L57 1" stroke="#0E18C7"/>
+<path d="M73 57L129 1" stroke="#0E18C7"/>
+<path d="M37 57L93 1" stroke="#0E18C7"/>
+<path d="M109 57L165 1" stroke="#0E18C7"/>
+<path d="M145 57L201 1" stroke="#0E18C7"/>
+<path d="M19 57L75 1" stroke="#0E18C7"/>
+<path d="M91 57L147 1" stroke="#0E18C7"/>
+<path d="M55 57L111 1" stroke="#0E18C7"/>
+<path d="M127 57L183 1" stroke="#0E18C7"/>
+<path d="M163 57L219 1" stroke="#0E18C7"/>
+<path d="M181 57L237 1" stroke="#0E18C7"/>
+<path d="M7 57L63 1" stroke="#0E18C7"/>
+<path d="M79 57L135 1" stroke="#0E18C7"/>
+<path d="M43 57L99 1" stroke="#0E18C7"/>
+<path d="M115 57L171 1" stroke="#0E18C7"/>
+<path d="M151 57L207 1" stroke="#0E18C7"/>
+<path d="M25 57L81 1" stroke="#0E18C7"/>
+<path d="M97 57L153 1" stroke="#0E18C7"/>
+<path d="M61 57L117 1" stroke="#0E18C7"/>
+<path d="M133 57L189 1" stroke="#0E18C7"/>
+<path d="M169 57L225 1" stroke="#0E18C7"/>
+<path d="M187 57L243 1" stroke="#0E18C7"/>
+<path d="M13 57L69 1" stroke="#0E18C7"/>
+<path d="M85 57L141 1" stroke="#0E18C7"/>
+<path d="M49 57L105 1" stroke="#0E18C7"/>
+<path d="M121 57L177 1" stroke="#0E18C7"/>
+<path d="M157 57L213 1" stroke="#0E18C7"/>
+<path d="M31 57L87 1" stroke="#0E18C7"/>
+<path d="M103 57L159 1" stroke="#0E18C7"/>
+<path d="M67 57L123 1" stroke="#0E18C7"/>
+<path d="M139 57L195 1" stroke="#0E18C7"/>
+<path d="M175 57L231 1" stroke="#0E18C7"/>
+<path d="M193 57L249 1" stroke="#0E18C7"/>
+<path d="M199 57L255 1" stroke="#0E18C7"/>
+</mask>
+<g mask="url(#mask0_2385_93388)">
+<rect x="-2.5" y="-1.5" width="201" height="61" fill="#121FFF" stroke="#0E18C7"/>
+</g>
+</svg>
